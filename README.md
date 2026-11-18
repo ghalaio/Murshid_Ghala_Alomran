@@ -10,7 +10,7 @@
 
 **A bilingual public-service assistant developed through four cumulative engineering labs and four practical homework assignments.**
 
-**[Main Repository](https://github.com/WesalFadhl/Murshid-Wesal-Mashael) · [Complete Labs Notebook](Murshid_Labs_1-4.ipynb) · [SDAIA](https://sdaia.gov.sa/)**
+**[Complete Labs Notebook](Murshid_Labs_1-4.ipynb) · [SDAIA](https://sdaia.gov.sa/)**
 
 </div>
 
@@ -37,7 +37,7 @@ The implementation was developed incrementally in one cumulative notebook, suppo
 - Measure model behavior, latency, token usage, and evaluation outcomes.
 - Document limitations and responsible deployment considerations.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -124,7 +124,7 @@ All four labs were implemented cumulatively in **[`Murshid_Labs_1-4.ipynb`](Murs
 
 ---
 
-## 🧪 Optional Homework Assignments
+## Optional Homework Assignments
 
 Each homework assignment was implemented in a separate notebook to explore additional engineering concepts without modifying the cumulative core project.
 
@@ -139,7 +139,7 @@ All homework notebooks and supporting results are stored in the [`homework/`](ho
 
 ---
 
-## 📊 Evaluation Results
+## Evaluation Results
 
 ### Overall Results
 
@@ -189,11 +189,10 @@ The final homework evaluated `google/flan-t5-small` using three synthetic applic
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
-Murshid-Wesal-Mashael/
-│
+
 ├── README.md
 ├── Murshid_Labs_1-4.ipynb
 │
@@ -218,7 +217,7 @@ The main notebook contains the complete four-day implementation, while the homew
 
 ---
 
-## 🔐 Reliability & Responsible AI Considerations
+##  Reliability & Responsible AI Considerations
 
 Murshid incorporates several engineering practices designed to improve application reliability:
 
@@ -256,7 +255,7 @@ Previously defined test cases are used to verify that optimization changes do no
 
 ---
 
-## 💡 Learning Outcomes
+##  Learning Outcomes
 
 Through the four cumulative labs and independent homework assignments, we developed practical skills across the LLM application engineering lifecycle.
 
@@ -278,13 +277,12 @@ The project reinforced that **reliable AI application engineering extends beyond
 
 ## 👩🏻‍💻 Contributors
 
-**Wesal Al-Numani**
-
-**Mashael Al-Mufleh**
+**Ghala Alomran**
+**Layan Alomar**
 
 ---
 
-## 🏛️ Training Information & Acknowledgments
+## Training Information & Acknowledgments
 
 **Program:** LLM Application Engineering (SDA-AIE-213)
 
