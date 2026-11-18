@@ -1,4 +1,4 @@
-# 🧭 Murshid — LLM Application Engineering
+# Murshid — LLM Application Engineering
 
 <div align="center">
 
